@@ -1,0 +1,12 @@
+a="1"
+a=int(a)
+print(a+3)
+b=23821
+b=str(b)
+print(b)
+b=list(b)
+print(b)
+b=tuple(b)
+print(b)
+b=set(b)
+print(b)
